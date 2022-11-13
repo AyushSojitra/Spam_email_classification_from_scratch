@@ -1,6 +1,6 @@
 # Spam_email_classification_from_scratch
-Performed preprocessing of data on 1500+ emails data set and presented the data into two different representation namely 
-Bag of words and Bernoulli’s representation for using classification models
+Performed preprocessing of data on 1500+ emails data set and presented the data into two different representation namely </br>
+Bag of words and Bernoulli’s representation for using classification models</br>
  Executed 4 different algorithms: Multinomial Naive Bayes for Bag of Words representation, Discrete Naive Bayes for 
 Bernoulli’s representation, Logistic Regression with L2 regularization and SGD Classifier for both representation
  Manually implemented the algorithms except the SGDClassifier and used log scale for the calculations to avoid underflow
